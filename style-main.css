@@ -1,19 +1,19 @@
-h1 {
+h1{
   color: #234c54;
-  text-align: center;
+  text-align:center;
 }
-header {
-  text-align: center;
+header{
+  text-align:center;
 }
-h2 {
-  color: #3c5070;
+h2{
+  color:#3c5070;
 }
-* {
-  background-color: #f5f0e9;
+*{
+  background-color:#f5f0e9;
 }
-a {
-  color: #4087d2;
+a{
+  color:#4087d2;
 }
-.bold {
-  color: #112250;
+.bold{
+  color:#112250;
 }
