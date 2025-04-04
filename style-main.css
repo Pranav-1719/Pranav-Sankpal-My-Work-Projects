@@ -1,19 +1,28 @@
-h1{
-  color: #234c54;
-  text-align:center;
+* {
+  background-color: #ebe8db;
 }
-header{
-  text-align:center;
+
+h1 {
+  color: #3d0301;
+  text-align: center;
 }
-h2{
-  color:#3c5070;
+
+h2 {
+  color: #b03052;
 }
-*{
-  background-color:#f5f0e9;
+
+.sub {
+  font-weight: 500;
 }
-a{
-  color:#4087d2;
+
+header {
+  text-align: center;
 }
-.bold{
-  color:#112250;
+
+a {
+  color: #d76c82;
+}
+
+.bold {
+  color: #3d0301;
 }
