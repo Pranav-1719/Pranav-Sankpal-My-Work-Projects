@@ -1,3 +1,6 @@
+body {
+  margin: 10px 6%;
+}
 * {
   background-color: #ebe8db;
 }
@@ -5,14 +8,17 @@
 h1 {
   color: #3d0301;
   text-align: center;
+  background-color: #fcbeca3e;
 }
 
 h2 {
   color: #b03052;
+  background-color: #fdcfd84d;
 }
 
 .sub {
   font-weight: 500;
+  background-color: #f9adbc4a;
 }
 
 header {
@@ -25,4 +31,7 @@ a {
 
 .bold {
   color: #3d0301;
+}
+div {
+  background-color: #f58fa361;
 }
