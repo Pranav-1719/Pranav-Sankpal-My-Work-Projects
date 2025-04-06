@@ -23,6 +23,7 @@ body > div {
 h1 {
   color: #1a1a1a;
   text-align: center;
+  padding: 10px;
 }
 
 h2 {
@@ -34,6 +35,7 @@ h2 {
   font-weight: 500;
   background-color: #ffffffaf;
   border-radius: 20px;
+  padding: 10px;
 }
 
 header {
@@ -57,4 +59,5 @@ a {
 footer {
   background-color: #d6e2eb;
   border-radius: 20px;
+  padding: 10px;
 }
